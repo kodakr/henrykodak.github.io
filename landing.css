@@ -2,6 +2,7 @@ body {
     background-image: url(images/header3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: rgba(82, 52, 164, 0.49);
 }
 
 header {
