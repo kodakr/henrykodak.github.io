@@ -50,8 +50,8 @@ img:hover {
 #division {
     display:flex;
     flex-direction: row;
-    height: 20%;
-    width: 45%;
+    height: 25%;
+    width: 60%;
     justify-content: center;
     margin: 5% 30%;
     
